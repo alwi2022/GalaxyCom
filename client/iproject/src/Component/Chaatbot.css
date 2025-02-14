@@ -1,0 +1,23 @@
+.btn-chatbot {
+  background: linear-gradient(90deg, #4f46e5, #7c3aed);
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn-chatbot:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.chat-input input {
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.chat-input button {
+  background: linear-gradient(90deg, #34d399, #60a5fa);
+  color: white;
+  border-radius: 6px;
+  padding: 8px 16px;
+}
