@@ -5,7 +5,7 @@ Galaxy Com API powers an eCommerce platform for a computer store, featuring dyna
 
 ## 🚀 Base URL
 ```
-http://localhost:3000/api
+http://localhost:3000
 ```
 
 ## 🛠️ Tech Stack
