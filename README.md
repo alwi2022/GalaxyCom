@@ -1,7 +1,7 @@
 # Galaxy Com API Documentation
 
 ## 📌 Introduction
-Galaxy Com API powers an eCommerce platform for a computer store, featuring dynamic product listings and a user-friendly interface. The application integrates multiple technologies to offer a seamless shopping experience for users.
+Galaxy Com API powers an eCommerce platform for a featuring dynamic product listings and a user-friendly interface. The application integrates multiple technologies to offer a seamless shopping experience for users.
 
 ## 🚀 Base URL
 ```
